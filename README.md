@@ -1,7 +1,7 @@
 
 ## Project Blog, documentations are written here
 
-It explains my thought process setting up the problem
+It explains my thought process and setting up the problem
 
 [https://hyeonukim.github.io/devblog/categories/captcha-hacking/](https://hyeonukim.github.io/devblog/categories/captcha-hacking/)
 
