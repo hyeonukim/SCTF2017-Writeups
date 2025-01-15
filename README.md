@@ -8,7 +8,7 @@ It explains my thought process setting up the problem
 ## How to use
 
 1. Inside ASM/src/ folder, run 'run.py'
-  - you should be able to see the problem in [localhost:10000](localhost:10000)   
+    - you should be able to see the problem in [localhost:10000](localhost:10000)   
 2. Inside Test/ folder, run 'run.py'
 
 ## Problem
